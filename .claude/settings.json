@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Notion",
+      "mcp__Google_Drive",
+      "mcp__Google_Calendar",
+      "mcp__Google_Sheets",
+      "ArtifactData",
+      "Artifact",
+      "mcp__claude-code-remote__read_documentation",
+      "mcp__claude-code-remote__get_session",
+      "mcp__claude-code-remote__list_triggers",
+      "mcp__claude-code-remote__get_trigger",
+      "mcp__claude-code-remote__create_trigger",
+      "mcp__claude-code-remote__update_trigger",
+      "mcp__claude-code-remote__fire_trigger"
+    ]
+  }
+}
